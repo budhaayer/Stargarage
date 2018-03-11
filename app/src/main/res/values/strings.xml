@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Star Garage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_text">Let’s keep this straightforward: You have a motorcycle, and you need someone to repair it or just handle some basic maintenance for you. That’s what we’re here for. If you love your ride, we’re the shop that wants to care for it. We see the good in every bike and take care of the bad parts, and we’d be honored if you’ll entrust your bike to us.</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
